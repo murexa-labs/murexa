@@ -1,8 +1,15 @@
-![](docs/logo_with_text.png)
+<p align="center">
+  <img width="320" src="docs/logo_with_text.svg">
+</p>
 
-[![LICENSE](https://img.shields.io/github/license/murexa-labs/murexa)](https://github.com/murexa-labs/murexa/blob/main/LICENSE)
-[![Open PRs](https://img.shields.io/github/issues-pr/murexa-labs/murexa)](https://github.com/murexa-labs/murexa/pulls)
-
+<p align="center">
+  <a href="https://github.com/murexa-labs/murexa/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/murexa-labs/murexa" alt="LICENSE">
+  </a>
+  <a href="https://github.com/murexa-labs/murexa/pulls">
+    <img src="https://img.shields.io/github/issues-pr/murexa-labs/murexa" alt="Open PRs">
+  </a>
+</p>
 
 ## What is Murexa?
 
